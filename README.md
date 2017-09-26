@@ -6,7 +6,7 @@ Description
 Prerequisites 
 -------------
 
-    * cli53 is installed and is in your PATH. see [https://github.com/barnybug/cli53]
+    * cli53 is installed and is in your PATH. see <https://github.com/barnybug/cli53>
     * If you want to run this script as a batch, create a user for this purpose
       with limited IAM access to route 53. 
 
