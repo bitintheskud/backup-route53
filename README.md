@@ -18,7 +18,8 @@ Just run it in a terminal or in a scheduler.
 How to improve
 ---------------
 
-  * Compress and archive directory 
+  * Compress and archive directory
+  * Use git repo as backend (instead of file). 
   * Add mail / notification
   * Add config file (etc)
   * Add purge for old archive 
